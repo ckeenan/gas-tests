@@ -16,4 +16,3 @@ To test, run `npm install -g truffle && npm install && truffle compile && mocha`
 | `bytes32`    | `bytes32[]` |
 | `bytes16`    | `bytes16[]` |
 | `Struct {uint, bytes32}` | `mapping (uint64 => Struct)` |
-I
